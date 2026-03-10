@@ -65,7 +65,6 @@ telecom-churn-analysis/
 ├── churn_analysis.ipynb
 ├── README.md
 └── .gitignore
-
 ---
 
 ## Autor
