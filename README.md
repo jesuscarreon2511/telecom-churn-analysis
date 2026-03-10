@@ -60,11 +60,11 @@ El flujo del análisis realizado en el notebook incluye:
 
 ## Estructura del Repositorio
 
-##telecom-churn-analysis/
-##│
-##├── churn_analysis.ipynb
-##├── README.md
-##└── .gitignore
+telecom-churn-analysis/
+│
+├── churn_analysis.ipynb
+├── README.md
+└── .gitignore
 ---
 
 ## Autor
