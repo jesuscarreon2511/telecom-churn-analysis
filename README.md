@@ -62,7 +62,7 @@ El flujo del análisis realizado en el notebook incluye:
 
 telecom-churn-analysis/
 │
-├── churn_analysis.ipynb
+├── TelecomX_LATAM.ipynb
 ├── README.md
 └── .gitignore
 ---
